@@ -1,5 +1,5 @@
 {
-  "name": "@amagi/prettier-config",
+  "name": "@ddmxh/prettier-config",
   "version": "0.0.1",
   "description": "Personal preference of prettier config",
   "main": "index.js",
