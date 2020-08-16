@@ -1,0 +1,23 @@
+{
+  "name": "@amagi/prettier-config",
+  "version": "0.0.1",
+  "description": "Personal preference of prettier config",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier . --write",
+    "release": "release-it"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "bugs": {
+    "url": "https://github.com/amagiddmxh/prettier-config/issues"
+  },
+  "homepage": "https://github.com/amagiddmxh/prettier-config",
+  "author": "AmagiDDmxh",
+  "license": "MIT",
+  "devDependencies": {
+    "release-it": "^13.6.6"
+  }
+}
