@@ -5,7 +5,7 @@ Provide a common config for projects use
 ## Installation
 
 ```bash
-  npm i -D @amagi/prettier-config
+  npm i -D @ddmxh/prettier-config
 ```
 
 ## Usage

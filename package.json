@@ -1,6 +1,6 @@
 {
   "name": "@ddmxh/prettier-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Personal preference of prettier config",
   "main": "index.js",
   "scripts": {
