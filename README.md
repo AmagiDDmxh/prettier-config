@@ -13,7 +13,7 @@ Provide a common config for projects use
 Crate a file named `.prettierrc.js`
 
 ```javascript
-module.exports = require('@zestia/prettier-config')
+module.exports = require('@ddmxh/prettier-config')
 ```
 
 ## Running
@@ -26,7 +26,7 @@ As this package only provides the Prettier configuration, it is assumed you alre
 
   ```json
   scripts: {
-    "prettier": "prettier '**/*.{js,json,css,scss,html,hbs,md}' --write"
+    "prettier": "prettier '**/*.{js,json,css,scss,md}' --write"
   }
   ```
 
