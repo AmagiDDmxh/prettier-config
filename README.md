@@ -1,4 +1,4 @@
-# @amagi/prettier-config
+# @ddmxh/prettier-config
 
 Provide a common config for projects use
 
